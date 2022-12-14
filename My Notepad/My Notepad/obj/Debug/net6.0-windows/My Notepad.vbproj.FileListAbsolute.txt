@@ -1,0 +1,17 @@
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.vbproj.AssemblyReference.cache
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My_Notepad.Form1.resources
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.vbproj.GenerateResource.cache
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.AssemblyInfoInputs.cache
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.AssemblyInfo.vb
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.vbproj.CoreCompileInputs.cache
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\bin\Debug\net6.0-windows\My Notepad.exe
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\bin\Debug\net6.0-windows\My Notepad.deps.json
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\bin\Debug\net6.0-windows\My Notepad.runtimeconfig.json
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\bin\Debug\net6.0-windows\My Notepad.dll
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\bin\Debug\net6.0-windows\My Notepad.pdb
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.dll
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\refint\My Notepad.dll
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.pdb
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\My Notepad.genruntimeconfig.cache
+C:\Users\emirhansimsek\source\repos\My Notepad\My Notepad\obj\Debug\net6.0-windows\ref\My Notepad.dll
